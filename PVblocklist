@@ -1,0 +1,17 @@
+! ============================================
+! Unified Ad Blocklist for Prime Video / Twitch / YouTube
+! Updated: 2025-10-14
+! ============================================
+
+! --- Prime Video Ads & Tracking ---
+||aax-us-east.amazon-adsystem.com^
+||aax-us-west.amazon-adsystem.com^
+||s.amazon-adsystem.com^
+||mads.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||firetvads.amazon.com^
+||metrics.awswaf.com^
+||device-metrics-us.amazon.com^
+||dp.analytics-api.amazon.com^
+||fls-na.amazon.com^
+||amazon-adsystem.com^
